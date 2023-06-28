@@ -35,6 +35,6 @@ I would like to thank the open-source community for their valuable contributions
 
 ## Contact
 
-For any questions or inquiries, please reach out to [me(https://www.linkedin.com/in/aayushverma2002/)]
+For any questions or inquiries, please reach out to [me](https://www.linkedin.com/in/aayushverma2002/)
 
 Happy learning and happy deep diving into the world of deep learning!
